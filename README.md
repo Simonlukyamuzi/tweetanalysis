@@ -1,5 +1,5 @@
-# tweetanalysis by Lukyamuzi Simon Yr One Master in Computer Science
-NAME: LUKYAMUZI SIMON, REG NO.: 2018/HD05/1965U, STUDENT NO.: 1800738413
+# tweetanalysis by Lukyamuzi Simon 
+Analysis of tweets from a particular country over a specified period of time( Case study is Uganda)
 
 
 
