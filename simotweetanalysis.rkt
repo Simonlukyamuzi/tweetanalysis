@@ -20,7 +20,7 @@
 
 ;;; Read in the entire tweet database tweets from Uganda)
 (define tweets (string->jsexpr
-                (with-input-from-file "TweetsUganda400.json" (λ () (json-lines->json-array)))))
+                (with-input-from-file "Ugandatweets600.json" (λ () (json-lines->json-array)))))
 ;;; Remove just the tweet text and source from each tweet
 ;;; hash. Finally, remove retweets.
 ;;; Remove just the tweet text, source, and timestamp from each tweet
